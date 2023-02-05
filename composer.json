@@ -1,0 +1,11 @@
+{
+    "name": "rahulvenneers/utility-generator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rahulvenneers\\UtilityGenerator\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
